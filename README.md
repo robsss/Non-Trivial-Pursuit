@@ -1,5 +1,8 @@
 # Non-Trivial-Pursuit
-Animated MATLAB exploration of the "Homicidal Chauffeur Problem" (Wikipedia search that string for more info).  
+Animated MATLAB exploration of the "Homicidal Chauffeur Problem". Description of problem from Wikipedia:
+
+>In game theory, the homicidal chauffeur problem is a mathematical pursuit problem which pits a hypothetical runner, who can only move slowly, but is highly maneuverable, against the driver of a motor vehicle, which is much faster but far less maneuverable, who is attempting to run him down. Both runner and driver are assumed to never tire. The question to be solved is: under what circumstances, and with what strategy, can the driver of the car guarantee that he can always catch the pedestrian, or the pedestrian guarantee that he can indefinitely elude the car?
+>
 
 
 # Project Description:
